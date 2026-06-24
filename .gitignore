@@ -1,0 +1,7 @@
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.~lock.*.odt#
+venv/
+.venv/
